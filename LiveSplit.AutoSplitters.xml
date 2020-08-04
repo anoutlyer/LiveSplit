@@ -9652,5 +9652,16 @@
     	   <Type>Script</Type>
     	   <Description>Autospliter for Prince of Persia 2.1 on DOSBox 0.74-3 (In-game timer)</Description>
   	   </AutoSplitter>
+	<AutoSplitter>
+           <Games>
+           <Game>Little Witch Nobeta</Game>     
+           </Games>
+           <URLs>
+      		<URL>https://raw.githubusercontent.com/anoutlyer/Little-Witch-Nobeta-AS/master/Little%20Witch%20Nobeta.asl</URL>
+           </URLs>
+           <Type>Script</Type>
+           <Description>Load remover for Little Witch Nobeta. Only removes loads. For v0.1094 and above. (By outlyer)</Description>
+    	   <Website>https://github.com/anoutlyer/Little-Witch-Nobeta-AS</Website>
+  	</AutoSplitter>
 </AutoSplitters>
 
